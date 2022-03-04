@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Alican Kayhan</h1>
-<h3 align="left">I'm a Frontend Developer</h3>
+<h3 align="left">I'm Frontend Developer</h3>
 
 
 - 🌱 I’m currently learning **React**
