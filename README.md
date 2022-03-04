@@ -80,17 +80,17 @@
        </a>
     -->
 </p>
-
+<br>
 <p>
-    <img align="left"
+    <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=alicankayhan&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="alicankayhan" />
 </p>
 <br />
-<p> &nbsp;
-    <img align="left"
+<p>
+    <img
         src="https://github-readme-stats.vercel.app/api?username=alicankayhan&show_icons=true&theme=highcontrast&locale=en" alt="alicankayhan" />
 </p>
 <br>
-<p align="left"> 
+<p> 
     <img src="https://komarev.com/ghpvc/?username=alicankayhan&label=Profile%20views&color=0e75b6&style=flat"alt="alicankayhan" /> 
 </p>
