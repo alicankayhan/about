@@ -35,7 +35,7 @@
     </a> 
     -->
     <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
-     <img align="left" alt="Wordpress" width="26px" src="https://pngimg.com/uploads/wordpress/wordpress_PNG74.png" />
+     <img align="left" alt="Wordpress" width="40" height="40" src="https://pngimg.com/uploads/wordpress/wordpress_PNG74.png" />
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
