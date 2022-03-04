@@ -2,10 +2,9 @@
 
 ## I'm a JR.Frontend Developer
 
-- :dart: I’m currently working on a Flutter Project!
-- :computer: I’m currently learning Flutter
-- :date: 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to explore new repositories
+- :dart: I’m currently working on a JavaScript.
+- :computer: I’m currently learning React
+- :date: 2022 Goals: Increasing the number of projects.
 
 ### Connect with me:
 
@@ -17,8 +16,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />]
-[<img align="left" alt="Dart" width="26px" src="https://image.pngaaa.com/400/23400-middle.png" />]
+[<img align="left" alt="Wordpress" width="26px" src="https://pngimg.com/uploads/wordpress/wordpress_PNG74.png" />][website]
 [<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
@@ -33,9 +31,8 @@
 <br />
 <br />
 
----
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicankayhan&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alicankayhan&show_icons=true&theme=radical)
 
 [website]: https://ackayhan.com/
 [linkedin]: https://www.linkedin.com/in/alicankayhan/
