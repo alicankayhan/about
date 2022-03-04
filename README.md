@@ -31,7 +31,7 @@
 <br />
 <br />
 
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alicankayhan&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alicankayhan&show_icons=true&theme=radical)
 
 [website]: https://ackayhan.com/
