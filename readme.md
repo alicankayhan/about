@@ -2,10 +2,6 @@
 <h3 align="left">I'm Frontend Developer</h3>
 
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **iletisim@ackayhan.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/alicankayhan" target="blank"><img align="center"
